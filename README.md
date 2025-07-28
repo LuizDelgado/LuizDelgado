@@ -50,7 +50,7 @@
 
 ### 🔗 Protocolos e Integrações
 - `MQTT`, `Modbus TCP/IP`, `WebSocket`, `OAuth 2.0`
-- `Google Cloud API`, `Gemini`, `Fireflies`, `SuperViz SDK`
+- `Google Cloud API`, `Gemini`, `Fireflies`
 
 ---
 
